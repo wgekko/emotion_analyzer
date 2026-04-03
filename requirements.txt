@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+moviepy
+python-dotenv
+opencv-python
+tensorflow
+numpy
+uuid
