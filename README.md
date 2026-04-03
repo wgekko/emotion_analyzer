@@ -22,7 +22,7 @@
 ### 1. Clonar el repositorio
 
 
-git clone [https://github.com/tu-usuario/emotion_analyzer.git](https://github.com/tu-usuario/emotion_analyzer.git)
+git clone [https://github.com/wgekko/emotion_analyzer.git](https://github.com/wgekko/emotion_analyzer.git)
 cd emotion_analyzer
 
 
