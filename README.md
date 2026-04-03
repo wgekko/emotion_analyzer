@@ -44,4 +44,14 @@ LIBCLANG_PATH=/usr/lib/llvm-14/lib  # Ajusta según tu sistema
 para mantener la configuración  del la app deben crear una carpeta .streamlit y colocar el archivo lllamda config.toml que esta dentro del 
 carpeta del mismo nombre 
 
+video demo 
+
+
+https://github.com/user-attachments/assets/fe7868b0-cd4a-47e3-829b-25c3819ee831
+
+
+
+
+
+
 streamlit run app.py
